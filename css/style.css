@@ -1,0 +1,93 @@
+/* Color Scheme */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    color: #333;
+}
+
+/* Table Styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #6a81e6;
+    color: #333;
+    text-align: left;
+}
+
+td {
+    background-color: #fff;
+}
+
+/* Links */
+a {
+    color: #6478ff;
+    text-decoration: none;
+    padding: 5px 10px;
+}
+
+a:hover {
+    background-color: #6a81e6;
+    color: #fff;
+}
+
+/* Button Styling */
+button {
+    background-color: #6a81e6;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #6a81e6;
+}
+
+/* Form Inputs */
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+/* Form Submit Button */
+form button {
+    background-color: #6478ff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+form button:hover {
+    background-color: #6a81e6;
+}
